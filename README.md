@@ -1,6 +1,5 @@
 #  ZTH Shop
 
-A responsive E-Commerce web application built with React and Vite. The project fetches products from Fake Store API and allows users to browse products, view details, search, and manage a shopping cart.
 this is my final project for iti course in frontend , i used react , vite and fake api store , introduce many fetures like home page that show products and users can search for what they need , also categories , and shoping cart
 
 ---
