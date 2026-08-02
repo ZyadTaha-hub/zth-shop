@@ -1,16 +1,98 @@
-# React + Vite
+#  ZTH Shop
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A responsive E-Commerce web application built with React and Vite. The project fetches products from Fake Store API and allows users to browse products, view details, search, and manage a shopping cart.
+this is my final project for iti course in frontend , i used react , vite and fake api store , introduce many fetures like home page that show products and users can search for what they need , also categories , and shoping cart
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+##  Live Demo
 
-## React Compiler
+https://zth-shop-222-dun.vercel.app/
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+##  Screenshot
 
-## Expanding the ESLint configuration
+![Home Page](./assets/homepage.png)
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+##  Features
+
+ Product details page
+ Browse categories
+Search products
+Shopping cart using Context API
+ Responsive design
+ Fast performance with Vite
+
+---
+
+##  Built With
+
+ React
+React Router DOM
+ Axios
+ Bootstrap 5
+Context API
+Fake Store API
+Vite
+
+---
+
+##  Project Structure
+
+```
+src/
+│── components/
+│── context/
+│── layout/
+│── pages/
+│── services/
+│── assets/
+│── App.jsx
+│── main.jsx
+```
+
+---
+
+##  Installation
+
+Clone the repository
+
+```bash
+git clone https://github.com/ZyadTaha-hub/zth-shop.git
+```
+
+Go to the project folder
+
+```bash
+cd zth-shop
+```
+
+Install dependencies
+
+```bash
+npm install
+```
+
+Run the project
+
+```bash
+npm run dev
+```
+
+---
+
+##  API
+
+This project uses:
+
+https://fakestoreapi.com
+
+---
+
+##  Author
+
+**Zyad Taha Abualyazid **
+
+GitHub:
+https://github.com/ZyadTaha-hub
